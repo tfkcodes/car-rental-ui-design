@@ -45,7 +45,7 @@ class _DetailsPageState extends State<DetailsPage> {
           bottomOpacity: 0.0,
           elevation: 0.0,
           shadowColor: Colors.transparent,
-          backgroundColor: themeData.backgroundColor,
+          backgroundColor: themeData.colorScheme.background,
           leading: Padding(
             padding: EdgeInsets.only(
               left: size.width * 0.05,
@@ -93,7 +93,7 @@ class _DetailsPageState extends State<DetailsPage> {
           height: size.height,
           width: size.height,
           decoration: BoxDecoration(
-            color: themeData.backgroundColor,
+            color: themeData.colorScheme.background,
           ),
           child: SafeArea(
             child: Padding(

@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
           bottomOpacity: 0.0,
           elevation: 0.0,
           shadowColor: Colors.transparent,
-          backgroundColor: themeData.backgroundColor,
+          backgroundColor: themeData.colorScheme.background,
           leading: Padding(
             padding: EdgeInsets.only(
               left: size.width * 0.05,
@@ -36,7 +36,7 @@ class _HomePageState extends State<HomePage> {
               width: size.width * 0.1,
               child: Container(
                 decoration: BoxDecoration(
-                  color: themeData.backgroundColor.withOpacity(0.03),
+                  color: themeData.colorScheme.background?.withOpacity(0.03),
                   borderRadius: const BorderRadius.all(
                     Radius.circular(10),
                   ),
@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
                 width: size.width * 0.1,
                 child: Container(
                   decoration: BoxDecoration(
-                    color: themeData.backgroundColor.withOpacity(0.03),
+                    color: themeData.colorScheme.background?.withOpacity(0.03),
                     borderRadius: const BorderRadius.all(
                       Radius.circular(10),
                     ),
@@ -89,7 +89,7 @@ class _HomePageState extends State<HomePage> {
       extendBody: true,
       extendBodyBehindAppBar: true,
       bottomNavigationBar: buildBottomNavBar(1, size, themeData),
-      backgroundColor: themeData.backgroundColor,
+      backgroundColor: themeData.colorScheme.background,
       body: SafeArea(
         child: ListView(
           children: [

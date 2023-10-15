@@ -20,12 +20,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "charcode",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/charcode-1.3.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "clock",
       "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/clock-1.1.1",
       "packageUri": "lib/",
@@ -39,9 +33,9 @@
     },
     {
       "name": "crypto",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/crypto-3.0.1",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/crypto-3.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "fake_async",
@@ -51,15 +45,9 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/ffi-1.1.2",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/ffi-2.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "file",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/file-6.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter",
@@ -81,25 +69,25 @@
     },
     {
       "name": "get",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/get-4.6.1",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/get-4.6.6",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.15"
     },
     {
       "name": "google_fonts",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/google_fonts-2.2.0",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/google_fonts-2.3.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "http",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/http-0.13.4",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/http-0.13.6",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "http_parser",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/http_parser-4.0.0",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -135,63 +123,51 @@
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider-2.0.8",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider_android-2.0.11",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider_android-2.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
-      "name": "path_provider_ios",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider_ios-2.0.7",
+      "name": "path_provider_foundation",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "path_provider_linux",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.4",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "path_provider_macos",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider_macos-2.0.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.0.1",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider_windows-2.0.4",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "platform",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/platform-3.1.0",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/platform-3.1.3",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.0.2",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "process",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/process-4.2.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "sky_engine",
@@ -237,13 +213,13 @@
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/typed_data-1.3.0",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     },
     {
       "name": "unicons",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/unicons-2.0.2",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/unicons-2.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -261,15 +237,15 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/win32-2.3.3",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/win32-5.0.9",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.0"
     },
     {
       "name": "xdg_directories",
-      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/xdg_directories-0.2.0",
+      "rootUri": "file:///home/codeblocks/.pub-cache/hosted/pub.dev/xdg_directories-1.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "car_rental_app_ui",
@@ -278,7 +254,7 @@
       "languageVersion": "2.15"
     }
   ],
-  "generated": "2023-10-15T16:32:02.669403Z",
+  "generated": "2023-10-15T17:18:39.548601Z",
   "generator": "pub",
   "generatorVersion": "3.1.0"
 }
