@@ -8,7 +8,7 @@ ThemeData lightModeTheme = ThemeData(
   textTheme: TextTheme(
     bodyMedium: GoogleFonts.poppins(color: Colors.black),
   ),
-  cardColor: Colors.white, colorScheme:  ColorScheme(background: Color(0xfff8f8f8)),
+  cardColor: Colors.white, colorScheme:   ColorScheme(background: Color(0xfff8f8f8)),
 );
 ThemeData darkModeTheme = ThemeData(
   brightness: Brightness.dark,
@@ -17,5 +17,5 @@ ThemeData darkModeTheme = ThemeData(
   textTheme: TextTheme(
     bodyMedium: GoogleFonts.poppins(color: Colors.white),
   ),
-  cardColor: const Color(0xff070606), colorScheme:  ColorScheme(background: Color(0xff06090d)),
+  cardColor:  Color(0xff070606), colorScheme:   ColorScheme(background: Color(0xff06090d)),
 );
